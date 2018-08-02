@@ -8,6 +8,7 @@ import java.io.UnsupportedEncodingException;
  */
 public class App 
 {
+    //我是真的牛逼
     static String  str1="我ABC";
     static String str2="我ABC汉DEF";
     private static int count=10;
